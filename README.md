@@ -17,8 +17,8 @@ This project focuses on the practice of image steganography, a method of hiding 
 - Topics: Steganography, Cyber Security, Image Processing
 ## Examples
 
-### Original Image
-![Original Image](images/original_image.png)
-
 ### Encoded Image
-![Encoded Image](images/encoded_image.png)
+![Original Image](images/encode.png)
+
+### Decoded Image
+![Encoded Image](images/decode.png)
