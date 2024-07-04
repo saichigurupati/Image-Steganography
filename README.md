@@ -5,9 +5,11 @@ This project focuses on the practice of image steganography, a method of hiding 
 
 ## Features
 - Encoding: Hide secret messages within images using least significant bit (LSB) manipulation.
+  ![Encoded Image]("C:\Users\12244\OneDrive\Desktop\minor2\encoded_image.png")
 - Decoding: Extract hidden messages from steganographic images.
 - Support for Various Image Formats: Works with popular image formats like PNG.
 - User-Friendly Interface: Simple command-line interface for easy encoding and decoding.
+  
 
 ## Technology Stack
 - Language: Python
