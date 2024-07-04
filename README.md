@@ -15,3 +15,10 @@ This project focuses on the practice of image steganography, a method of hiding 
 - Language: Python
 - Libraries: PIL (Python Imaging Library), NumPy, OpenCV
 - Topics: Steganography, Cyber Security, Image Processing
+## Examples
+
+### Original Image
+![Original Image](images/original_image.png)
+
+### Encoded Image
+![Encoded Image](images/encoded_image.png)
